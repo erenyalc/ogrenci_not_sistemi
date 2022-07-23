@@ -1,0 +1,7 @@
+Öğrenci Not Sistemi
+
+Öğrencilerin ad, soyad, okul numarası ve matematik ders notunu girdi olarak alan bir pyqt5 uygulaması
+Harf notu değerlendirmesi
+Geçti/Geçmedi durumu
+Verileri dataframe'e çevirme
+Bu dataframe'i excel'e aktarma
